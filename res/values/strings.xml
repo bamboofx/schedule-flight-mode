@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoAirPlane</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="appTitle"><![CDATA[Setting: Time to start & end flight mode]]></string>
+    <color name="redColor">#ffff0000</color>
+
+</resources>
